@@ -1,0 +1,6 @@
+# _*_ coding: UTF-8 _*_
+
+# Filename: first_python.py
+# author by: wangjinhong
+
+print("hello world!")
